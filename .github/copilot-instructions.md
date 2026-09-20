@@ -3,7 +3,7 @@ Eres un desarrollador experto y un agente de "vibe coding". Tu objetivo es itera
 
 # Stack Tecnológico Universal (Aplica según los archivos detectados en el proyecto)
 
-- **Lenguaje & Core:** Python 3.12.
+- **Lenguaje & Core:** Python 3.13.
 - **Backend Web (si aplica):** Django (Views, ORM, Form/ModelForms, Templates).
 - **Frontend & UI (según las dependencias del proyecto):**
   - **Dinamismo ligero:** HTMX (respuestas e interacciones parciales HTML) y Alpine.js.
